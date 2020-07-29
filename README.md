@@ -2,15 +2,17 @@
 
 > This project was completed as part of the course requirements of Udacity's Full Stack Developer Nanodegree certification. 
 
-Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
-The application of full stack drink menu must:
-
-1) Display graphics representing the ratios of ingredients in each drink.
-2) Allow public users to view drink names and graphics.
-3) Allow the shop baristas to see the recipe information.
-4) Allow the shop managers to create new drinks and edit existing drinks.
-
+## 1)- Auth0 account:
+> Then update the information in a file auth.py
+ ```
+AUTH0_DOMAIN = 'fsnd-tota.us.auth0.com' 
+ALGORITHMS = ['RS256']
+API_AUDIENCE = 'http://localhost:5000'
+ ```
+> I have created two dummy accounts on my Auth0 profile, both of them are verified and functional.
+ 
+ 
 ## Tasks
 
 There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
