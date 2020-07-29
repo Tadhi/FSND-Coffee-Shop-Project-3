@@ -1,6 +1,6 @@
-# Coffee Shop Full Stack
+# Full Stack Developer Project 3 -Coffee-Shop
 
-## Full Stack Nano - IAM Final Project
+> This project was completed as part of the course requirements of Udacity's Full Stack Developer Nanodegree certification. 
 
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
