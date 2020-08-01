@@ -34,6 +34,20 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNxeGd3TzJYRGpqT3o0UzNBZHMyYSJ9.eyJ
 * Implemented RESTful endpoints api.py
 * Implemented error handlers 400, 404, 422
 
+
+## 4) Running the app
+A)- Install dependencies with:
+
+```
+pip3 install -r backend/requirements.txt
+```
+  
+   ```
+    ```
+    
+     ```
+      ```
+
  
 ## Tasks
 
