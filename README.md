@@ -3,7 +3,7 @@
 > This project was completed as part of the course requirements of Udacity's Full Stack Developer Nanodegree certification. 
 
 
-## 1)- Auth0 account:
+## 1) Auth0 account:
 > Then update the information in a file auth.py
  ```
 AUTH0_DOMAIN = 'fsnd-tota.us.auth0.com' 
