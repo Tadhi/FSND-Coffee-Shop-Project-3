@@ -57,7 +57,7 @@ C)- To run the server/app, execute
 * Guarantee that the frontend can be launched upon an ionic serve command and the login/token retrieval are functional
 
 
-#### Installing Project dependencies:
+#### Installing Project dependencies
 * This project uses NPM to manage software dependencies. 
 * NPM relies on the package.json file located in the frontend directory of this repository. 
 * After cloning, open your terminal and run:
@@ -65,7 +65,7 @@ C)- To run the server/app, execute
 npm install
 ```
 
-#### Running Your Frontend in Dev Mode:
+#### Running Your Frontend in Dev Mode
 ```
 ionic serve
 ```
