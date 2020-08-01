@@ -6,7 +6,7 @@
 
 ### The problem
 
-The generated JWT tokens must be configured within the [provided POSTMan JSON collection](../backend/udacity-fsnd-udaspicelatte.postman_collection.json)
+The generated JWT tokens must be configured within the [provided POSTMan JSON collection](../backend/udacity2-fsnd-udaspicelatte.postman_collection.json)
 
 
 ### Step 1 - Update `barista` and `manager` separately
