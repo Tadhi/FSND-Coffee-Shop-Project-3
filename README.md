@@ -4,14 +4,17 @@
 
 
 ## 1) Auth0 account:
-> Then update the information in a file auth.py
+> A)- Then update the information in a file auth.py
  ```
 AUTH0_DOMAIN = 'fsnd-tota.us.auth0.com' 
 ALGORITHMS = ['RS256']
 API_AUDIENCE = 'http://localhost:5000'
  ```
-> I have created two dummy accounts on my Auth0 profile, both of them are verified and functional.
+> B)- I have created two dummy accounts on my Auth0 profile, both of them are verified and functional.
  
+ #### Manager Account:
+ 
+ #### Barista Account:
  
 ## Tasks
 
