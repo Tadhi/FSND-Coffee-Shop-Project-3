@@ -147,7 +147,7 @@ Simply go to your browser and access the localhost:8100, login with a registered
 Copy the token generated in the screen and go to [JWT.io](https://jwt.io) to validate your token.
 
 
-![Validate the token through JWT.io](./images/auth015.jpg)
+![Validate the token through JWT.io](./images/auth015.png)
 
 
 
