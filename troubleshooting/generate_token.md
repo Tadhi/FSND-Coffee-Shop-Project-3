@@ -71,4 +71,6 @@ and add the required permissions for each role through the blue button `Add perm
 The permissions were created in the Step 7. 
 
 
-![Permissions tab](./images/oauth09.png)
+![Permissions tab](./images/auth09.png)
+
+![Add permission sample](./images/auth010.png)
