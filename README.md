@@ -4,7 +4,7 @@
 
 > Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience. To create a full stack drink menu application
 
-The application must:
+> The application must:
 
 * Display graphics representing the ratios of ingredients in each drink.
 * Allow public users to view drink names and graphics.
