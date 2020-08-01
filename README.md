@@ -3,6 +3,13 @@
 > This project was completed as part of the course requirements of Udacity's Full Stack Developer Nanodegree certification. 
 
 
+The application must:
+
+* Display graphics representing the ratios of ingredients in each drink.
+* Allow public users to view drink names and graphics.
+* Allow the shop baristas to see the recipe information.
+* Allow the shop managers to create new drinks and edit existing drinks.
+
 ## Auth0 Account:
 > A)- Then update the information in a file auth.py
  ```
