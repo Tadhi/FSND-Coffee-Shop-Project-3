@@ -58,10 +58,13 @@ C)- To run the server/app, execute
 
 
 ## Installing project dependencies:
-This project uses NPM to manage software dependencies. NPM Relies on the package.json file located in the frontend directory of this repository. After cloning, open your terminal and run:
+* This project uses NPM to manage software dependencies. 
+* NPM relies on the package.json file located in the frontend directory of this repository. 
+* After cloning, open your terminal and run:
 ```
 npm install
 ```
+
 ## Running Your Frontend in Dev Mode:
 ```
 ionic serve
