@@ -144,7 +144,9 @@ Simply go to your browser and access the localhost:8100, login with a registered
 
  #### Barista Account:
  
- ![Login to your app](./images/auth014Barista.png)
+![Login to your app](./images/auth014Barista.png)
+ 
+ >Activ JWT
  
  ```
  eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNxeGd3TzJYRGpqT3o0UzNBZHMyYSJ9.eyJpc3MiOiJodHRwczovL2ZzbmQtdG90YS51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVmYzAzNjhmZDMwZTIwMDEzNjYwZGEzIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAwIiwiaWF0IjoxNTkzNTc3MTIyLCJleHAiOjE1OTM1ODQzMjIsImF6cCI6IndLc0d3TG5jVEhVNDk0VlZkellCUjYyYWJydG9zNFZlIiwic2NvcGUiOiIiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzLWRldGFpbCJdfQ.UzoNAkLkmT5Yck7UUxDzkAWSAyux_XX8XnMYPw18_WlbIyoDUMu07QPtL5s-D19U9BbmqOgo5Sthuo1pI2eeRMZZo5EcYwYevkFEOyTyRI7aGnUVigodfLHIim9wMCOsBfsJY0a4yg7kYYvUVqgvlLDjhojV872-kik0UrePYoP7Y-XSHjIn8Rlqegy6KfcEbix_l6d87FHEwrVEHI923zUrDLnjbGQuXP3IUwnH6m3B0tJIe9VORbAZQYL8Lz-FuiBYA61mSvn2EtUN-MhLMojCwjQl-9-ltIpT12HdoFgrRyBzAnT8XSmebTO1t5ikAH3Zjp7LJMmfw80pd9RlzA
@@ -155,11 +157,14 @@ Simply go to your browser and access the localhost:8100, login with a registered
 
 Copy the token generated in the screen and go to [JWT.io](https://jwt.io) to validate your token.
 
-
+#### Manager Account:
 ![Validate the token through JWT.io](./images/auth015.png)
 
 
-
+ #### Barista Account:
+![Validate the token through JWT.io](./images/auth016.png)
+ 
+ 
 
 ### Step 16 - Update the POSTman collection
 
