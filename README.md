@@ -3,7 +3,7 @@
 > This project was completed as part of the course requirements of Udacity's Full Stack Developer Nanodegree certification. 
 
 
-## 1) Auth0 account:
+## 1) Auth0 Account
 > A)- Then update the information in a file auth.py
  ```
 AUTH0_DOMAIN = 'fsnd-tota.us.auth0.com' 
@@ -21,6 +21,19 @@ eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNxeGd3TzJYRGpqT3o0UzNBZHMyYSJ9.eyJ
  ```
  eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNxeGd3TzJYRGpqT3o0UzNBZHMyYSJ9.eyJpc3MiOiJodHRwczovL2ZzbmQtdG90YS51cy5hdXRoMC5jb20vIiwic3ViIjoiYXV0aDB8NWVmYzAzNjhmZDMwZTIwMDEzNjYwZGEzIiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdDo1MDAwIiwiaWF0IjoxNTkzNTc3MTIyLCJleHAiOjE1OTM1ODQzMjIsImF6cCI6IndLc0d3TG5jVEhVNDk0VlZkellCUjYyYWJydG9zNFZlIiwic2NvcGUiOiIiLCJwZXJtaXNzaW9ucyI6WyJnZXQ6ZHJpbmtzLWRldGFpbCJdfQ.UzoNAkLkmT5Yck7UUxDzkAWSAyux_XX8XnMYPw18_WlbIyoDUMu07QPtL5s-D19U9BbmqOgo5Sthuo1pI2eeRMZZo5EcYwYevkFEOyTyRI7aGnUVigodfLHIim9wMCOsBfsJY0a4yg7kYYvUVqgvlLDjhojV872-kik0UrePYoP7Y-XSHjIn8Rlqegy6KfcEbix_l6d87FHEwrVEHI923zUrDLnjbGQuXP3IUwnH6m3B0tJIe9VORbAZQYL8Lz-FuiBYA61mSvn2EtUN-MhLMojCwjQl-9-ltIpT12HdoFgrRyBzAnT8XSmebTO1t5ikAH3Zjp7LJMmfw80pd9RlzA
  ```
+ 
+ ## 2) POSTman
+ 
+* Exported collection with configured tokens can be found at: /backend/udacity-fsnd-udaspicelatte.postman_collection_STUDENT_TOKEN.json
+* Test results containing 20 successful cases: /backend/udacity-fsnd-udaspicelatte.postman_collection_test_run.json
+
+
+ ## 3) Backend
+ 
+* Added Auth0 functionalities on auth.py 
+* Implemented RESTful endpoints api.py
+* Implemented error handlers 400, 404, 422
+
  
 ## Tasks
 
